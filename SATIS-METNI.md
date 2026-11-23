@@ -1,0 +1,37 @@
+# LeanCart Custom Order Statuses — Sales Copy
+
+**Category:** Orders
+**Price:** $19 (single license) · $149 (30-plugin Business Bundle)
+**Example site:** https://qsedationdentistry.com
+**GitHub:** https://github.com/imamalkan-hub/leancart-custom-order-statuses
+
+## Short description (meta, 155 characters)
+Add your own statuses to your orders and manage your workflow.
+
+## Long description
+LeanCart Custom Order Statuses solves one daily problem for WooCommerce store owners: "finding the available order statuses insufficient".
+Instead of hundreds of options and bloated code, it is a focused tool that works
+right after installation.
+
+### Why buy it?
+- **Saves time:** Gives the operations team custom workflow statuses
+- **Minutes to set up:** Works with sensible defaults.
+- **Secure:** WordPress CRUD API, nonce and capability checks, proper escaping.
+- **Compatible:** WooCommerce 8+, HPOS, PHP 8.0+, WordPress 6.2+.
+- **Supported:** 12 months of updates and support, 30-day money-back guarantee.
+
+### Features
+* Unlimited custom statuses
+* Bulk action support
+* Compatible with the WooCommerce standard status list
+
+### Who is it for?
+Businesses handling production, shipping, and order operations
+
+## Keywords (SEO / marketplace)
+woocommerce custom order status, custom order status plugin
+
+## Screenshot captions
+1. Settings page — LeanCart Custom Order Statuses options.
+2. The related WooCommerce admin screen (products, orders, settings, etc.).
+3. An example view on the store front end (product or cart page).
